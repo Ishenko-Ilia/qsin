@@ -8,3 +8,4 @@ else
 echo "Mounting device /dev/sda1 - /mnt"
 mount /dev/sda1/mnt
 fi
+rm -R /mnt/sda1.tar
